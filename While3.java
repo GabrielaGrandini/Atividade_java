@@ -16,6 +16,6 @@ public class While3
 	        soma+= n;
 	        }
 	    }
-		System.out.println("A soma doa números pares de 1 a 100 é: " + soma);
+		System.out.println("A soma dos números pares de 1 a 100 é: " + soma);
 	}
 }
